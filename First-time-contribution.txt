@@ -1,3 +1,4 @@
 Write your name as a first-time-contribution
 
 Hello 
+Sahaj jain (Change the color of face detection rectangle #2)

@@ -10,13 +10,42 @@ Face recognition is a method of identifying or verifying the identity of an indi
 ## OpenCV
 ### Overview
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products
+ 
+ ---
 
+# Steps For Contribution 🚀
+0. Star ⭐
 
+1. Fork 
 
+2. Clone the forked repository.
+```css
+git clone https://github.com/<your-github-username>/Face_Recognition_Attendance_System
+```
+  
+3. Navigate to the project directory.
+```py
+cd Face_Recognition_Attendance_System
+```
+4. Create a new branch.
+```css
+git checkout -b <your_branch_name>
+```
+5. Make changes.
+6. Stage your changes and commit
+```css
+git add -A
+git commit -m "<your_commit_message>"
+```
+7. Push your local commits to the remote repo.
+```css
+git push -u origin <your_branch_name>
+```
+8. Create a Pull Request.
+9. Congratulations! 🎉 you've made your contribution.
+---
 
-
-
-
+---
 
 ## Pre-requisites
 Hands-on knowledge of Python is essential before working on the concepts of OpenCV. Make sure that you have the following packages installed and running before starting this project.
@@ -32,7 +61,7 @@ Hands-on knowledge of Python is essential before working on the concepts of Open
 ```bash
   pip install CMake # installing CMake 
   pip install dlib  # installing dlib 
-  pip install face recognition  # installing face recognition
+  pip install face_recognition  # installing face recognition
   pip install OpenCV  # installing OpenCV
 ```
 

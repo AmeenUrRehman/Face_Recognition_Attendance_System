@@ -1,7 +1,7 @@
 
 # Face Recognition with Attendance System
 
-This Project recognize the face from the Webcam and mark the Attendance of that person in the Attendance csv file.
+This Project recognizes the face from the Webcam and marks the Attendance of that person in the Attendance csv file.
 
 ## Introduction
 
@@ -9,7 +9,7 @@ Face recognition is a method of identifying or verifying the identity of an indi
 
 ## OpenCV
 ### Overview
-OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products
+OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products
 
 
 

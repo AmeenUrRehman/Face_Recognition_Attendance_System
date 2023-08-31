@@ -126,7 +126,7 @@ while True:
 - face_recognition.distance() returns an array of the distance of the test image with all images present in our train directory.
 - The index of the minimum face distance will be the matching face.
 
-### Create a function which compare the real time encode face with stored image
+### Create a function which compare the real time encode face with stored image.
 ``` bash
     # Creating a funtion to compare the Current Face and the store image of the Person
     for EncodeFace , FaceLoc in zip(CurrentFaceEncoding , CurrentFaceLoc):
